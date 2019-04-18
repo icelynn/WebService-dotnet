@@ -213,7 +213,7 @@
     <Compile Include="ws\gh\aaa\verify-salesinfo.ashx.cs">
       <DependentUpon>verify-salesinfo.ashx</DependentUpon>
     </Compile>
-    <Compile Include="ws\gh\bbb\assets\TMNEWAPropPolicy.cs" />
+    <Compile Include="ws\gh\bbb\assets\BBBPropPolicy.cs" />
     <Compile Include="ws\gh\bbb\notify-new-insurance.ashx.cs">
       <DependentUpon>notify-new-insurance.ashx</DependentUpon>
     </Compile>
